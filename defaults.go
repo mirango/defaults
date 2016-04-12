@@ -1,7 +1,7 @@
 package defaults
 
 import (
-	"github.com/wlMalk/mirango/framework"
+	"github.com/mirango/framework"
 )
 
 var (
